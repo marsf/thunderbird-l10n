@@ -5,7 +5,7 @@
 add-on-options-button =
     .title = Dewisiadau Ychwanegion
 add-on-search-alternative-button-label = Canfod ychwanegyn arall
-add-on-learn-more-and-search-alternative-button-label = Dysgwch fwy a dewch o hyd i ychwanegyn amgen
+add-on-learn-more-and-search-alternative-button-label = Dysgwch fwy a dod  o hyd i ychwanegyn arall
 atn-addons-heading-search-input =
     .placeholder = Chwilio addons.thunderbird.net
 atn-addons-heading-search-button =
