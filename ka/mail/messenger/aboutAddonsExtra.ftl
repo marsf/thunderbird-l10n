@@ -5,8 +5,11 @@
 add-on-options-button =
     .title = დამატების პარამეტრები
 add-on-search-alternative-button-label = მონახეთ შესანაცვლებელი დამატება
+add-on-learn-more-and-search-alternative-button-label = იხილეთ ვრცლად და მონახეთ შემნაცვლებელი დამატება
 atn-addons-heading-search-input =
     .placeholder = ძიება addons.thunderbird.net
 atn-addons-heading-search-button =
     .title = ძიება საიტზე addons.thunderbird.net
     .aria-label = ძიება საიტზე addons.thunderbird.net
+details-notification-suppressed-esr =
+    .message = ეს დამატება ამორთულია, ვინაიდან იყენებს საცდელ API-ებს. ამგვარი API-ების მოქმედების არეა მხოლოდ { -brand-product-name } ESR და არაა მხარდაჭერილი მოცემული ვერსიის { -brand-product-name }.

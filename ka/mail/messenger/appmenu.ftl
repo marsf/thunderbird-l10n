@@ -51,6 +51,14 @@ appmenu-new-newsgroup =
     .label = სასაუბრო ჯგუფი
     .accesskey = ჯ
 
+## Add Account
+
+appmenu-add-account-panel-title =
+    .title = ანგარიშის დამატება
+appmenu-add-account-panel =
+    .label = ანგარიშის დამატება
+    .accesskey = ნ
+
 ## New Account / Address Book
 
 appmenu-newab-panel-title =
@@ -67,6 +75,11 @@ appmenu-new-carddav =
 appmenu-new-ldap =
     .label = LDAP-წიგნაკი
     .accesskey = L
+appmenu-add-address-book-panel-title =
+    .title = მისამართების წიგნაკის დამატება
+appmenu-add-address-book =
+    .label = მისამართების წიგნაკი
+    .accesskey = წ
 
 ## Create
 

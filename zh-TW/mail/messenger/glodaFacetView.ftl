@@ -19,4 +19,4 @@ facet-view-and-others = 其他 { $count } 位
 # Variables:
 #   $m - the number M in "M of N" items
 #   $n - the number N in "M of N" items
-item-count-m-of-n = { $m } / { $n }
+item-count-m-of-n = 第 { $m } 項，共 { $n } 項

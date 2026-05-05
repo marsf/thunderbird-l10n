@@ -4,6 +4,7 @@
 
 open-preferences-sidebar-button2 = { -brand-short-name } პარამეტრები
 open-addons-sidebar-button = დანამატები და თემები
+account-tree-add-account-button = ანგარიშის დამატება
 account-action-add-newsgroup-account =
     .label = სასაუბრო ჯგუფების დამატება…
     .accesskey = ს
