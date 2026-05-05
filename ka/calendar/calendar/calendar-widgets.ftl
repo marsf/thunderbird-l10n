@@ -20,6 +20,8 @@ calendar-enable-button = ჩართვა
 #  $calendarName (String) - Calendar name as given by the user
 calendar-list-item-context-button =
     .title = { $calendarName } კალენდრის პარამეტრები
+calendar-add-calendar = კალენდრის დამატება…
+    .title = შექმენით ან გამოიწერეთ კალენდარი
 calendar-import-new-calendar = ახალი კალენდარი…
     .title = ახალი კალენდრის შექმნა ან გამოწერა
 calendar-refresh-calendars =
