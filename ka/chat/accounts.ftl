@@ -44,3 +44,4 @@ account-disconnecting =
     .value = ითიშება…
 account-disconnected =
     .value = არაა დაკავშირებული
+add-account-label = ანგარიშის დამატება
