@@ -25,3 +25,7 @@ facet-view-and-others =
         [one] { $count } overige
        *[other] { $count } overige
     }
+# Variables:
+#   $m - the number M in "M of N" items
+#   $n - the number N in "M of N" items
+item-count-m-of-n = { $m } van { $n }
