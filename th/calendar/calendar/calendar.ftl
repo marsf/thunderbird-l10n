@@ -20,6 +20,10 @@ ask-save-title-event = บันทึกเหตุการณ์
 ask-save-title-task = บันทึกงาน
 ask-save-message-event = ยังไม่ได้บันทึกเหตุการณ์ คุณต้องการบันทึกเหตุการณ์หรือไม่?
 ask-save-message-task = ยังไม่ได้บันทึกงาน คุณต้องการบันทึกงานหรือไม่?
+# All day checkbox label, used both for events and tasks
+calendar-item-all-day =
+    .label = ตลอดวัน
+    .accesskey = ต
 # Event Dialog Warnings
 warning-end-before-start = วันที่สิ้นสุดที่คุณป้อนเกิดก่อนวันที่เริ่ม
 warning-until-date-before-start = จนถึงวันที่เกิดก่อนวันที่เริ่ม
