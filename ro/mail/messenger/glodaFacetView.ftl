@@ -28,3 +28,7 @@ facet-view-and-others =
         [few] { $count } altele
        *[other] { $count } de altele
     }
+# Variables:
+#   $m - the number M in "M of N" items
+#   $n - the number N in "M of N" items
+item-count-m-of-n = { $m } din { $n }
