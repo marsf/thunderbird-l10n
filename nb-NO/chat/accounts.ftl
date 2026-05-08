@@ -43,3 +43,4 @@ account-disconnecting =
     .value = Kobler fra …
 account-disconnected =
     .value = Ikke tilkoblet
+add-account-label = Legg til konto
