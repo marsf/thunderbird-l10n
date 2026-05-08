@@ -18,6 +18,7 @@ account-manager-close-command =
     .key = a
 # This title must be short, displayed with a big font size
 account-manager-no-account-title = Ingen konto konfigurert ennå
+account-manager-no-accounts-description = Trykk på { add-account-label }-knappen for å la { -brand-short-name } guide deg gjennom prosessen med å sette opp en.
 account-manager-no-account-description = Trykk på { new-account-label }-knappen for å la { -brand-short-name } guide deg gjennom prosessen med å sette opp en.
 account-auto-sign-on =
     .label = Pålogging ved oppstart
