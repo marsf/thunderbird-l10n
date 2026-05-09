@@ -259,6 +259,8 @@ menu-move-copy-recent-destinations =
 menu-move-copy-favorites =
     .label = Oblíbené
     .accesskey = O
+menu-move-copy-no-recent =
+    .label = (Žádné nedávné umístění)
 menu-move-copy-no-favorites =
     .label = (Žádné oblíbené)
 
