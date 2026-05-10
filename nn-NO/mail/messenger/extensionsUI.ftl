@@ -4,6 +4,8 @@
 
 webext-experiment-warning = Skadelege tillegg kan stele dei private opplysningane dine eller kompromittere datamaskina di. Installer dette tillegget berre om du stolar på kjelda.
 webext-perms-learn-more = Les meir
+webext-install-suppressed-message = Tillegget <> kunne ikkje installerast fordi det brukar Experiment API-ar, som ikkje blir støtta av denne versjonen av Thunderbird.
+webext-install-suppressed-details = Tillegg med Experiment API-ar blir berre støtta på { -brand-product-name } ESR.
 # Variables:
 #   $addonName (String): localized named of the extension that was just installed.
 addon-post-install-message = { $addonName } vart lagt til.

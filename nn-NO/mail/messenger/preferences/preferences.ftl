@@ -464,6 +464,7 @@ account-hub-checkbox-description = Eksperimentell ny prosess for oppretting av e
 account-hub-manual-config-checkbox-label =
     .label = Bruk den nye manuelle konfigurasjonsflyten i kontosenteret
     .accesskey = k
+account-hub-manual-config-checkbox-description = Ny manuell konfigurasjonsflyt i kontosenteret
 new-calendar-legend = Nytt dialogvindauge for kalenderhending
 new-calendar-checkbox-label =
     .label = Vis kalenderhendingar i det nye dialogvindauget
