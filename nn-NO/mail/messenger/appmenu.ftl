@@ -55,6 +55,9 @@ appmenu-new-newsgroup =
 
 appmenu-add-account-panel-title =
     .title = Legg til konto
+appmenu-add-account-panel =
+    .label = Legg til konto
+    .accesskey = g
 
 ## New Account / Address Book
 
