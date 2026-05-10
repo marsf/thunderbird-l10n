@@ -137,6 +137,7 @@ account-hub-ssl-noencryption = Yok
 account-hub-email-skip-button = Geç
 account-hub-finding-sync-accounts = Hesap oluşturuldu. Adres defterleri ve takvimler keşfediliyor…
 account-hub-privacy-policy = Gizlilik Politikası
+account-hub-welcome-brand = { -brand-short-name }
 account-hub-welcome-text = { -brand-short-name } uygulamasına hoş geldiniz
 account-hub-name-warning-icon =
     .title = Lütfen adınızı yazın
