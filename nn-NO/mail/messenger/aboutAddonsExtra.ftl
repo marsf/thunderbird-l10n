@@ -11,3 +11,5 @@ atn-addons-heading-search-input =
 atn-addons-heading-search-button =
     .title = Søk på addons.thunderbird.net
     .aria-label = Søk på addons.thunderbird.net
+details-notification-suppressed-esr =
+    .message = Tillegget vart deaktivert fordi det bruker Experiment API-ar. Desse API-ane er avgrensa til { -brand-product-name } ESR og blir ikkje støtta i denne versjonen av { -brand-product-name }.
