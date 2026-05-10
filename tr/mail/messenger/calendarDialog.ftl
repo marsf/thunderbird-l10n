@@ -75,8 +75,12 @@ calendar-dialog-reminder-count =
         [one] { $count } anımsatıcı
        *[other] { $count } anımsatıcı
     }
+calendar-dialog-accept = Gideceğim
+    .title = Gideceğim
 calendar-dialog-accept-tentative = Belki
     .title = Belki
+calendar-dialog-decline = Gitmeyeceğim
+    .title = Gitmeyeceğim
 calendar-dialog-join-meeting-button = Toplantıya katıl
 calendar-dialog-join-meeting-row-icon =
     .alt = Toplantıya katıl
@@ -93,4 +97,36 @@ calendar-dialog-attachments-summary-label =
     { $count ->
         [one] { $count } ek
        *[other] { $count } ek
+    }
+
+## These strings are formatted as a list using Intl.Listformat,
+## resulting for example in "1 attending, 2 maybe, etc.".
+
+# Variables:
+#   $count (Number): Number of guests that responded "attending".
+calendar-dialog-attendee-summary-going =
+    { $count ->
+        [one] { $count } katılıyor
+       *[other] { $count } katılıyor
+    }
+# Variables:
+#   $count (Number): Number of guests that responded "maybe".
+calendar-dialog-attendee-summary-maybe =
+    { $count ->
+        [one] { $count } belki
+       *[other] { $count } belki
+    }
+# Variables:
+#   $count (Number): Number of guests that responded "declined".
+calendar-dialog-attendee-summary-declined =
+    { $count ->
+        [one] { $count } reddetti
+       *[other] { $count } reddetti
+    }
+# Variables:
+#   $count (Number): Number of guests whose response is pending (didn't reply yet).
+calendar-dialog-attendee-summary-pending =
+    { $count ->
+        [one] { $count } bekleniyor
+       *[other] { $count } bekleniyor
     }
